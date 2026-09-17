@@ -1,0 +1,3590 @@
+[
+  {
+    "id": "ftit-001",
+    "name": "Coffee Maker",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Coffee-Maker-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Coffee Maker provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Coffee-Maker-Image.png"
+  },
+  {
+    "id": "ftit-002",
+    "name": "Neck Support Cushion",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Neck-Support-Cushion-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Neck Support Cushion provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Neck-Support-Cushion-Image.png"
+  },
+  {
+    "id": "ftit-003",
+    "name": "Heated Blanket",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Heated-Blanket-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Heated Blanket provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Heated-Blanket-Image.png"
+  },
+  {
+    "id": "ftit-004",
+    "name": "Glare Flash Light",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Glare-Flash-Light-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Optic-grade PMMA Acrylic + High-Flux SMD LEDs",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Glare Flash Light provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Glare-Flash-Light-Image.png"
+  },
+  {
+    "id": "ftit-005",
+    "name": "Umbrella",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Umbrella-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Umbrella provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Umbrella-Image.png"
+  },
+  {
+    "id": "ftit-006",
+    "name": "Cup Holder",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Cup-Holder-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Cup Holder provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Cup-Holder-Image.png"
+  },
+  {
+    "id": "ftit-007",
+    "name": "Mobile Cover",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Mobile-Cover-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Mobile Cover provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Mobile-Cover-Image.png"
+  },
+  {
+    "id": "ftit-008",
+    "name": "Vacuum Cleaner",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Vacuum-Cleaner-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Aerospace Grade Aluminum Alloy & Polycarbonate",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Vacuum Cleaner provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Vacuum-Cleaner-Image.png"
+  },
+  {
+    "id": "ftit-009",
+    "name": "Trash Bin",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Trash-Bin-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Trash Bin provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Trash-Bin-Image.png"
+  },
+  {
+    "id": "ftit-010",
+    "name": "Garment Hanger",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Garment-Hanger-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Garment Hanger provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Garment-Hanger-Image.png"
+  },
+  {
+    "id": "ftit-011",
+    "name": "Laptop Tray",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Laptop-Tray-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Laptop Tray provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Laptop-Tray-Image.png"
+  },
+  {
+    "id": "ftit-012",
+    "name": "Tray Holder Desk",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Tray-Holder-Desk-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Tray Holder Desk provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Tray-Holder-Desk-Image.png"
+  },
+  {
+    "id": "ftit-013",
+    "name": "Magnetic Phone Holder",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Magnetic-Phone-Holder-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Magnetic Phone Holder provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Magnetic-Phone-Holder-Image.png"
+  },
+  {
+    "id": "ftit-014",
+    "name": "Backseat Bag",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Backseat-Bag-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Backseat Bag provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Backseat-Bag-Image.png"
+  },
+  {
+    "id": "ftit-015",
+    "name": "Escape Rescue Tool",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Escape-Rescue-Tool-Image.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Escape Rescue Tool provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/09/Escape-Rescue-Tool-Image.png"
+  },
+  {
+    "id": "ftit-016",
+    "name": "Pet Seat Liner",
+    "category": "Interior & Convenience",
+    "image": "/images/products/Pet-Seat-Liner.png",
+    "source_page": "our-products-01",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Pet Seat Liner provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Pet-Seat-Liner.png"
+  },
+  {
+    "id": "ftit-017",
+    "name": "Sun Glass Holder",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Sun-Glass-Holder.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Sun Glass Holder provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Sun-Glass-Holder.png"
+  },
+  {
+    "id": "ftit-018",
+    "name": "Under Seat Vault",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Under-Seat-Vault.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Under Seat Vault provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Under-Seat-Vault.png"
+  },
+  {
+    "id": "ftit-019",
+    "name": "Sun Visor Organizer",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Sun-Visor-Organizer.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Sun Visor Organizer provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Sun-Visor-Organizer.png"
+  },
+  {
+    "id": "ftit-020",
+    "name": "Smart Cup Holder",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Smart-Cup-Holder.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Smart Cup Holder provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Smart-Cup-Holder.png"
+  },
+  {
+    "id": "ftit-021",
+    "name": "Luxury Perfume",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Luxury-Perfume.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Aerospace Grade Aluminum Alloy & Polycarbonate",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Luxury Perfume provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Luxury-Perfume.png"
+  },
+  {
+    "id": "ftit-022",
+    "name": "Wireless Charging Mat",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Wireless-Charging-Mat.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Dual-Color Vertical Injection Molded Polymer (TPE/TPR)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Wireless Charging Mat provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Wireless-Charging-Mat.png"
+  },
+  {
+    "id": "ftit-023",
+    "name": "Ghost Light",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Ghost-Light.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Optic-grade PMMA Acrylic + High-Flux SMD LEDs",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Ghost Light provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Ghost-Light.png"
+  },
+  {
+    "id": "ftit-024",
+    "name": "Armrest",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Armrest.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Armrest provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Armrest.png"
+  },
+  {
+    "id": "ftit-025",
+    "name": "Electrical Side Step",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Electrical-Side-Step.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Electrical Side Step provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Electrical-Side-Step.png"
+  },
+  {
+    "id": "ftit-026",
+    "name": "Wheel Nut Cover",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Wheel-Nut-Cover.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Wheel Nut Cover provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Wheel-Nut-Cover.png"
+  },
+  {
+    "id": "ftit-027",
+    "name": "Seat Gap Filler",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Seat-Gap-Filler.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Seat Gap Filler provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Seat-Gap-Filler.png"
+  },
+  {
+    "id": "ftit-028",
+    "name": "Display Guard",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Display-Guard.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Display Guard provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Display-Guard.png"
+  },
+  {
+    "id": "ftit-029",
+    "name": "Edge Defender",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Edge-Defender.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Edge Defender provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Edge-Defender.png"
+  },
+  {
+    "id": "ftit-030",
+    "name": "Wheel Illuminator",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/heel-Illuminator.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Wheel Illuminator provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/heel-Illuminator.png"
+  },
+  {
+    "id": "ftit-031",
+    "name": "Ambient Light Kit",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Ambient-Light-Kit.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Optic-grade PMMA Acrylic + High-Flux SMD LEDs",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Ambient Light Kit provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Ambient-Light-Kit.png"
+  },
+  {
+    "id": "ftit-032",
+    "name": "Speaker Grill Cover",
+    "category": "Comfort & Ambient Lighting",
+    "image": "/images/products/Speaker-Grill-Cover.png",
+    "source_page": "product-02",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Speaker Grill Cover provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Speaker-Grill-Cover.png"
+  },
+  {
+    "id": "ftit-033",
+    "name": "Mirror Safeguard",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Mirror-Safeguard.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Mirror Safeguard provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Mirror-Safeguard.png"
+  },
+  {
+    "id": "ftit-034",
+    "name": "Sporty paddle cover",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Pedal-cap.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Sporty paddle cover provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Pedal-cap.png"
+  },
+  {
+    "id": "ftit-035",
+    "name": "Dashboard organizer",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Steering-wheel-Organizer.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Dashboard organizer provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Steering-wheel-Organizer.png"
+  },
+  {
+    "id": "ftit-036",
+    "name": "Mirror rain visor",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/ORVM-Hood.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Mirror rain visor provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/ORVM-Hood.png"
+  },
+  {
+    "id": "ftit-037",
+    "name": "Wheel cover inserts",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Valve-Stem-Kit.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Wheel cover inserts provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Valve-Stem-Kit.png"
+  },
+  {
+    "id": "ftit-038",
+    "name": "Wheel Accent Panel",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Wheel-Accent-Panel.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Wheel Accent Panel provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Wheel-Accent-Panel.png"
+  },
+  {
+    "id": "ftit-039",
+    "name": "Seat Storage Organizer",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Seat-Storage-Organizer.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Seat Storage Organizer provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Seat-Storage-Organizer.png"
+  },
+  {
+    "id": "ftit-040",
+    "name": "Wireless Charger",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Wireless-Charger.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Flame Retardant UL94 V-0 High-Impact Polymer",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Wireless Charger provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Wireless-Charger.png"
+  },
+  {
+    "id": "ftit-041",
+    "name": "Screen Edge Protector",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Screen-Edge-Protecto.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Screen Edge Protector provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Screen-Edge-Protecto.png"
+  },
+  {
+    "id": "ftit-042",
+    "name": "Air Mattress",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Air-Mattress.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Dual-Color Vertical Injection Molded Polymer (TPE/TPR)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Air Mattress provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Air-Mattress.png"
+  },
+  {
+    "id": "ftit-043",
+    "name": "Fast Tag Holder",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Fast-Tag-Holder.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Fast Tag Holder provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Fast-Tag-Holder.png"
+  },
+  {
+    "id": "ftit-044",
+    "name": "Anti Glare Visor",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Anti-Glare-Visor.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Anti Glare Visor provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Anti-Glare-Visor.png"
+  },
+  {
+    "id": "ftit-045",
+    "name": "Number Plate Frame",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Number-Plate-Frame.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Number Plate Frame provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Number-Plate-Frame.png"
+  },
+  {
+    "id": "ftit-046",
+    "name": "Hexavalent BrightChrome Finish",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Hexavalent-Bright-Chrome-Finish.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Electroplated ABS / High-Gloss Trivalent Chrome",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Hexavalent BrightChrome Finish provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Hexavalent-Bright-Chrome-Finish.png"
+  },
+  {
+    "id": "ftit-047",
+    "name": "Trivalent BrightChrome Finish",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Trivalent-Bright-Chrome-Finish.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Electroplated ABS / High-Gloss Trivalent Chrome",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Trivalent BrightChrome Finish provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Trivalent-Bright-Chrome-Finish.png"
+  },
+  {
+    "id": "ftit-048",
+    "name": "Copper Chrome Finish",
+    "category": "Styling & Protective Accessories",
+    "image": "/images/products/Copper-Chrome-Finish.png",
+    "source_page": "product-03",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Electroplated ABS / High-Gloss Trivalent Chrome",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Copper Chrome Finish provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Copper-Chrome-Finish.png"
+  },
+  {
+    "id": "ftit-049",
+    "name": "Satin Chrome Finish",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Satin-Chrome-Finish.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Electroplated ABS / High-Gloss Trivalent Chrome",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Satin Chrome Finish provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Satin-Chrome-Finish.png"
+  },
+  {
+    "id": "ftit-050",
+    "name": "Black Chrome Finish",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Black-Chrome-Finish.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Electroplated ABS / High-Gloss Trivalent Chrome",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Black Chrome Finish provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Black-Chrome-Finish.png"
+  },
+  {
+    "id": "ftit-051",
+    "name": "Rose Gold Chrome Finish",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Rose-Gold-Chrome-Finish.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Electroplated ABS / High-Gloss Trivalent Chrome",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Rose Gold Chrome Finish provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Rose-Gold-Chrome-Finish.png"
+  },
+  {
+    "id": "ftit-052",
+    "name": "Mono Color Gloss Paint Finish",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Mono-Color-Gloss-Paint-Finish.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Mono Color Gloss Paint Finish provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Mono-Color-Gloss-Paint-Finish.png"
+  },
+  {
+    "id": "ftit-053",
+    "name": "Dual Color Paint Finish",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Dual-Color-Paint-Finish.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Dual Color Paint Finish provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Dual-Color-Paint-Finish.png"
+  },
+  {
+    "id": "ftit-054",
+    "name": "Mono Color Matte Paint Finish",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Mono-Color-Matte-Paint-Finish.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Dual-Color Vertical Injection Molded Polymer (TPE/TPR)",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Mono Color Matte Paint Finish provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Mono-Color-Matte-Paint-Finish.png"
+  },
+  {
+    "id": "ftit-055",
+    "name": "Door sill gaurd",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Paint-with-Chrome-Finish.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Door sill gaurd provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Paint-with-Chrome-Finish.png"
+  },
+  {
+    "id": "ftit-056",
+    "name": "Piano black finish",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Hydro-carbon-Finish.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Piano black finish provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Hydro-carbon-Finish.png"
+  },
+  {
+    "id": "ftit-057",
+    "name": "Door Visor",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Door-Visor.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Door Visor provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Door-Visor.png"
+  },
+  {
+    "id": "ftit-058",
+    "name": "Door Visor with Chrome Insert",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Door-Visor-with-Chrome-Insert.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Electroplated ABS / High-Gloss Trivalent Chrome",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Door Visor with Chrome Insert provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Door-Visor-with-Chrome-Insert.png"
+  },
+  {
+    "id": "ftit-059",
+    "name": "Frunk Organize",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Frunk-Organizer.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Frunk Organize provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Frunk-Organizer.png"
+  },
+  {
+    "id": "ftit-060",
+    "name": "Rear Wind Deflector",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Rear-Wind-Deflector.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Rear Wind Deflector provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Rear-Wind-Deflector.png"
+  },
+  {
+    "id": "ftit-061",
+    "name": "Window Armor Guard",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Window-Armor-Guard.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Window Armor Guard provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Window-Armor-Guard.png"
+  },
+  {
+    "id": "ftit-062",
+    "name": "Mud Flaps",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Mud-Flaps.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Mud Flaps provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Mud-Flaps.png"
+  },
+  {
+    "id": "ftit-063",
+    "name": "Window Frame Kit- SS",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Window-Frame-Kit-SS.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Window Frame Kit- SS provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Window-Frame-Kit-SS.png"
+  },
+  {
+    "id": "ftit-064",
+    "name": "Window Frame Kit- Chrome",
+    "category": "Exterior Trim & Finishes",
+    "image": "/images/products/Window-Frame-Kit-Chrome.png",
+    "source_page": "product-04",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Electroplated ABS / High-Gloss Trivalent Chrome",
+    "finishes": [
+      "Hexavalent Bright Chrome",
+      "Trivalent Bright Chrome",
+      "Satin Chrome",
+      "Rose Gold Chrome",
+      "Black Chrome",
+      "Piano Black"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Window Frame Kit- Chrome provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Window-Frame-Kit-Chrome.png"
+  },
+  {
+    "id": "ftit-065",
+    "name": "Sand Blast Door Scuff Plate",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Sand-Blast-Door-Scuff-Plate.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Sand Blast Door Scuff Plate provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Sand-Blast-Door-Scuff-Plate.png"
+  },
+  {
+    "id": "ftit-066",
+    "name": "Chemical Etch Door Scuff Plate",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Chemical-Etch-Door-Scuff-Plate.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Chemical Etch Door Scuff Plate provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Chemical-Etch-Door-Scuff-Plate.png"
+  },
+  {
+    "id": "ftit-067",
+    "name": "Scuff Plate",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Dual-Color-Door-Scuff-Plate.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Scuff Plate provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Dual-Color-Door-Scuff-Plate.png"
+  },
+  {
+    "id": "ftit-068",
+    "name": "Side Skirt",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Side-Skirt.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Side Skirt provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Side-Skirt.png"
+  },
+  {
+    "id": "ftit-069",
+    "name": "Trendy Door Sill",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Trendy-Door-Sill.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Trendy Door Sill provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Trendy-Door-Sill.png"
+  },
+  {
+    "id": "ftit-070",
+    "name": "Wheel Cover",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/heel-Cover.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Wheel Cover provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/heel-Cover.png"
+  },
+  {
+    "id": "ftit-071",
+    "name": "Rear Lip Spoiler",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Rear-Lip-Spoiler.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Rear Lip Spoiler provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Rear-Lip-Spoiler.png"
+  },
+  {
+    "id": "ftit-072",
+    "name": "Boot Mat",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Boot-Mats.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Dual-Color Vertical Injection Molded Polymer (TPE/TPR)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Boot Mat provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Boot-Mats.png"
+  },
+  {
+    "id": "ftit-073",
+    "name": "Front Bumper Spoiler",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Front-Bumper-Spoiler.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Front Bumper Spoiler provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Front-Bumper-Spoiler.png"
+  },
+  {
+    "id": "ftit-074",
+    "name": "Illuminated Scuff Plate",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Illuminated-Scuff-Plate.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Illuminated Scuff Plate provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Illuminated-Scuff-Plate.png"
+  },
+  {
+    "id": "ftit-075",
+    "name": "Sequential Illuminated Scuff Plate",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Sequential-Illuminated-Scuff-Plate.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Sequential Illuminated Scuff Plate provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Sequential-Illuminated-Scuff-Plate.png"
+  },
+  {
+    "id": "ftit-076",
+    "name": "Foot Mats",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Foot-Mats.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Dual-Color Vertical Injection Molded Polymer (TPE/TPR)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Foot Mats provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Foot-Mats.png"
+  },
+  {
+    "id": "ftit-077",
+    "name": "Dual Color Vertical Injection Molded Mats",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Dual-Color-Vertical-Injection-Molded-Mats.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Dual-Color Vertical Injection Molded Polymer (TPE/TPR)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Dual Color Vertical Injection Molded Mats provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Dual-Color-Vertical-Injection-Molded-Mats.png"
+  },
+  {
+    "id": "ftit-078",
+    "name": "3D Mats",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/3D-Mats.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Dual-Color Vertical Injection Molded Polymer (TPE/TPR)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The 3D Mats provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/3D-Mats.png"
+  },
+  {
+    "id": "ftit-079",
+    "name": "Bumper Sill Protector",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Bumper-Sill-Protector.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Bumper Sill Protector provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Bumper-Sill-Protector.png"
+  },
+  {
+    "id": "ftit-080",
+    "name": "Wireless Kit",
+    "category": "Aerodynamics & Sill Guards",
+    "image": "/images/products/Wireless-Kit.png",
+    "source_page": "product-05",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Wireless Kit provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Wireless-Kit.png"
+  },
+  {
+    "id": "ftit-081",
+    "name": "Indash illumination",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Indash-illumination.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Optic-grade PMMA Acrylic + High-Flux SMD LEDs",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Indash illumination provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Indash-illumination.png"
+  },
+  {
+    "id": "ftit-082",
+    "name": "Cord Keeper",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Cord-Keeper.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Cord Keeper provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Cord-Keeper.png"
+  },
+  {
+    "id": "ftit-083",
+    "name": "Glow Stream",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Glow-Stream.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Optic-grade PMMA Acrylic + High-Flux SMD LEDs",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Glow Stream provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Glow-Stream.png"
+  },
+  {
+    "id": "ftit-084",
+    "name": "EV Charging Cable Lock",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/EV-Charging-Cable-Lock.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Flame Retardant UL94 V-0 High-Impact Polymer",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The EV Charging Cable Lock provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/EV-Charging-Cable-Lock.png"
+  },
+  {
+    "id": "ftit-085",
+    "name": "V2L",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/V2L.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Flame Retardant UL94 V-0 High-Impact Polymer",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The V2L provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/V2L.png"
+  },
+  {
+    "id": "ftit-086",
+    "name": "Wireless ISP",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Wireless-ISP.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Wireless ISP provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Wireless-ISP.png"
+  },
+  {
+    "id": "ftit-087",
+    "name": "Portable Solar Panel",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Portable-Solar-Panel.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Aerospace Grade Aluminum Alloy & Polycarbonate",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Portable Solar Panel provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Portable-Solar-Panel.png"
+  },
+  {
+    "id": "ftit-088",
+    "name": "EV Extension Chord",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/EV-Extension-Chord.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Flame Retardant UL94 V-0 High-Impact Polymer",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The EV Extension Chord provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/EV-Extension-Chord.png"
+  },
+  {
+    "id": "ftit-089",
+    "name": "Power Pack Defender",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Power-Pack-Defender.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Power Pack Defender provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Power-Pack-Defender.png"
+  },
+  {
+    "id": "ftit-090",
+    "name": "EV Charging cable\nProtector",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/EV-Charging-cable-Protector.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Flame Retardant UL94 V-0 High-Impact Polymer",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The EV Charging cable\nProtector provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/EV-Charging-cable-Protector.png"
+  },
+  {
+    "id": "ftit-091",
+    "name": "Wireless Under Body lamp",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Wireless-Under-Body-lamp.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Optic-grade PMMA Acrylic + High-Flux SMD LEDs",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Wireless Under Body lamp provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Wireless-Under-Body-lamp.png"
+  },
+  {
+    "id": "ftit-092",
+    "name": "Scissor Wrench",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Scissor-Wrench.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Scissor Wrench provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Scissor-Wrench.png"
+  },
+  {
+    "id": "ftit-093",
+    "name": "Tire Puncture Kit",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/ire-Puncture-Kit.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Tire Puncture Kit provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/ire-Puncture-Kit.png"
+  },
+  {
+    "id": "ftit-094",
+    "name": "Tire Inflator",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Tire-Inflator.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Tire Inflator provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Tire-Inflator.png"
+  },
+  {
+    "id": "ftit-095",
+    "name": "Anti Slip Dash Mat",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Anti-Slip-Dash-Mat.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Dual-Color Vertical Injection Molded Polymer (TPE/TPR)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Anti Slip Dash Mat provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Anti-Slip-Dash-Mat.png"
+  },
+  {
+    "id": "ftit-096",
+    "name": "Molded Trunk Chair",
+    "category": "EV Solutions & Utility Tools",
+    "image": "/images/products/Molded-Trunk-Chair.png",
+    "source_page": "product-06",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Molded Trunk Chair provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Molded-Trunk-Chair.png"
+  },
+  {
+    "id": "ftit-097",
+    "name": "Car washer",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Car-washer.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Aerospace Grade Aluminum Alloy & Polycarbonate",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Car washer provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Car-washer.png"
+  },
+  {
+    "id": "ftit-098",
+    "name": "Tire Table",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Tire-Table.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Aerospace Grade Aluminum Alloy & Polycarbonate",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Tire Table provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Tire-Table.png"
+  },
+  {
+    "id": "ftit-099",
+    "name": "Door Lock cover",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Door-Lock-cover.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Door Lock cover provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Door-Lock-cover.png"
+  },
+  {
+    "id": "ftit-100",
+    "name": "Start Stop Cover",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Start-Stop-Cover.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Start Stop Cover provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Start-Stop-Cover.png"
+  },
+  {
+    "id": "ftit-101",
+    "name": "Road Safety Kit",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Road-Safety-Kit.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Road Safety Kit provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Road-Safety-Kit.png"
+  },
+  {
+    "id": "ftit-102",
+    "name": "Jump starter",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Jump-Starter.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Jump starter provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Jump-Starter.png"
+  },
+  {
+    "id": "ftit-103",
+    "name": "Automatic body cover",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Automatic-Body-Cover.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Dual-Color Vertical Injection Molded Polymer (TPE/TPR)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Automatic body cover provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Automatic-Body-Cover.png"
+  },
+  {
+    "id": "ftit-104",
+    "name": "Car key cover — Silicone Based",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Car-key-cover-—-Silicone-Based.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Precision-Molded High-Grade Silicone",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Car key cover — Silicone Based provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Car-key-cover-—-Silicone-Based.png"
+  },
+  {
+    "id": "ftit-105",
+    "name": "Car key Cover- Cubic Based",
+    "category": "Car Care & Protection",
+    "image": "/images/products/ar-key-Cover-Cubic-Based.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Car key Cover- Cubic Based provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/ar-key-Cover-Cubic-Based.png"
+  },
+  {
+    "id": "ftit-106",
+    "name": "Shock dampener",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Shock-dampener.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Universal Fit",
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Shock dampener provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Shock-dampener.png"
+  },
+  {
+    "id": "ftit-107",
+    "name": "Roof Rail Mono tone",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Roof-Rail-Mono-tone.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Roof Rail Mono tone provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Roof-Rail-Mono-tone.png"
+  },
+  {
+    "id": "ftit-108",
+    "name": "Roof Rail Dual Tone",
+    "category": "Car Care & Protection",
+    "image": "/images/products/Roof-Rail-Dual-Tone.png",
+    "source_page": "product-07",
+    "compatible_cars": [
+      "Toyota Hycross",
+      "Mahindra Thar",
+      "Tata Nexon",
+      "Tata Punch",
+      "Mahindra Scorpio-N"
+    ],
+    "material": "Automotive Grade ABS & Stainless Steel (SS304)",
+    "finishes": [
+      "Standard OEM OEM Finish",
+      "Piano Black",
+      "Satin Chrome",
+      "Gloss Chrome"
+    ],
+    "warranty": "2-Year Direct FTIT Manufacturer Warranty",
+    "oem_tier": "Tier-1 Certified OEM Precision Quality",
+    "description": "Precision-engineered by Futuretech Innotech (FTIT). The Roof Rail Dual Tone provides superior durability, seamless aerodynamic integration, and factory-level fit and finish.",
+    "features": [
+      "Precision CAD/CAM engineered for 100% direct-fit OEM integration",
+      "Weatherproof, UV-resistant, and salt-spray corrosion tested",
+      "Manufactured in ISO 9001 / IATF 16949 certified facilities",
+      "Non-destructive installation with plug-and-play / 3M automotive adhesive"
+    ],
+    "in_stock": true,
+    "rfq_available": true,
+    "remote_image": "https://futuretechinnotech.in/wp-content/uploads/2025/10/Roof-Rail-Dual-Tone.png"
+  }
+]

@@ -1,0 +1,360 @@
+[
+  {
+    "id": "MSG-1789635091816",
+    "createdAt": "2026-09-17T08:51:31.816205+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Enterprise Contact Test",
+    "email": "contact@ftit.in",
+    "phone": "+91 98765 22222",
+    "subject": "OEM Tier-1 Supply Agreement",
+    "message": "Discussion for new model accessory package supply.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789635091813",
+    "createdAt": "2026-09-17T08:51:31.813436+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Enterprise Client Test",
+    "email": "enterprise@ftit.in",
+    "phone": "+91 98765 11111",
+    "company": "Fleet Solutions Corp",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "id": "ftit-001",
+        "name": "Coffee Maker",
+        "quantity": 1
+      }
+    ],
+    "message": "Requesting enterprise fleet quotation.",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "MSG-1789633415413",
+    "createdAt": "2026-09-17T08:23:35.413320+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Enterprise Contact Test",
+    "email": "contact@ftit.in",
+    "phone": "+91 98765 22222",
+    "subject": "OEM Tier-1 Supply Agreement",
+    "message": "Discussion for new model accessory package supply.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789633415411",
+    "createdAt": "2026-09-17T08:23:35.411893+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Enterprise Client Test",
+    "email": "enterprise@ftit.in",
+    "phone": "+91 98765 11111",
+    "company": "Fleet Solutions Corp",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "id": "ftit-001",
+        "name": "Coffee Maker",
+        "quantity": 1
+      }
+    ],
+    "message": "Requesting enterprise fleet quotation.",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "MSG-1789632593190",
+    "createdAt": "2026-09-17T08:09:53.190675+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Enterprise Contact Test",
+    "email": "contact@ftit.in",
+    "phone": "+91 98765 22222",
+    "subject": "OEM Tier-1 Supply Agreement",
+    "message": "Discussion for new model accessory package supply.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789632593189",
+    "createdAt": "2026-09-17T08:09:53.189958+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Enterprise Client Test",
+    "email": "enterprise@ftit.in",
+    "phone": "+91 98765 11111",
+    "company": "Fleet Solutions Corp",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "id": "ftit-001",
+        "name": "Coffee Maker",
+        "quantity": 1
+      }
+    ],
+    "message": "Requesting enterprise fleet quotation.",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "MSG-1789632412598",
+    "createdAt": "2026-09-17T08:06:52.598408+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Enterprise Contact Test",
+    "email": "contact@ftit.in",
+    "phone": "+91 98765 22222",
+    "subject": "OEM Tier-1 Supply Agreement",
+    "message": "Discussion for new model accessory package supply.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789632412597",
+    "createdAt": "2026-09-17T08:06:52.597350+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Enterprise Client Test",
+    "email": "enterprise@ftit.in",
+    "phone": "+91 98765 11111",
+    "company": "Fleet Solutions Corp",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "id": "ftit-001",
+        "name": "Coffee Maker",
+        "quantity": 1
+      }
+    ],
+    "message": "Requesting enterprise fleet quotation.",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "MSG-1789630161379",
+    "createdAt": "2026-09-17T07:29:21.379408+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Enterprise Contact Test",
+    "email": "contact@ftit.in",
+    "phone": "+91 98765 22222",
+    "subject": "OEM Tier-1 Supply Agreement",
+    "message": "Discussion for new model accessory package supply.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789630161378",
+    "createdAt": "2026-09-17T07:29:21.378765+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Enterprise Client Test",
+    "email": "enterprise@ftit.in",
+    "phone": "+91 98765 11111",
+    "company": "Fleet Solutions Corp",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "id": "ftit-001",
+        "name": "Coffee Maker",
+        "quantity": 1
+      }
+    ],
+    "message": "Requesting enterprise fleet quotation.",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "MSG-1789629796189",
+    "createdAt": "2026-09-17T07:23:16.189574+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Live Contact Tester",
+    "email": "contact-live@ftit.in",
+    "phone": "+91 99999 66666",
+    "subject": "Live API Architecture Verification",
+    "message": "Testing modular clean architecture router",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789629794148",
+    "createdAt": "2026-09-17T07:23:14.148977+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Live HTTP Enterprise Client",
+    "email": "enterprise-live@ftit.in",
+    "phone": "+91 99999 55555",
+    "company": "Live Fleet Corp",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "name": "Roof Rails",
+        "quantity": 1
+      }
+    ],
+    "message": "Testing v1 RFQ endpoint",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "RFQ-1789629792117",
+    "createdAt": "2026-09-17T07:23:12.117405+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Live HTTP Enterprise Client",
+    "email": "enterprise-live@ftit.in",
+    "phone": "+91 99999 55555",
+    "company": "Live Fleet Corp",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "name": "Roof Rails",
+        "quantity": 1
+      }
+    ],
+    "message": "Testing v1 RFQ endpoint",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "MSG-1789629725957",
+    "createdAt": "2026-09-17T07:22:05.957259+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Enterprise Contact Test",
+    "email": "contact@ftit.in",
+    "phone": "+91 98765 22222",
+    "subject": "OEM Tier-1 Supply Agreement",
+    "message": "Discussion for new model accessory package supply.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789629725949",
+    "createdAt": "2026-09-17T07:22:05.949892+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Enterprise Client Test",
+    "email": "enterprise@ftit.in",
+    "phone": "+91 98765 11111",
+    "company": "Fleet Solutions Corp",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "id": "ftit-001",
+        "name": "Coffee Maker",
+        "quantity": 1
+      }
+    ],
+    "message": "Requesting enterprise fleet quotation.",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "MSG-1789628033674",
+    "createdAt": "2026-09-17T06:53:53.674523+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Test Inquirer",
+    "email": "inquirer@test-partner.com",
+    "phone": "+91 98765 43211",
+    "subject": "B2B Supply Contract Inquiry",
+    "message": "Interested in OEM supply options for regional distribution.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789628033674",
+    "createdAt": "2026-09-17T06:53:53.674064+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Test Engineering Partner",
+    "email": "engineering@test-partner.com",
+    "phone": "+91 98765 43210",
+    "company": "AeroTech Automotive Labs",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "id": "ftit-001",
+        "name": "Prepreg Carbon Mirror Caps",
+        "quantity": 2
+      }
+    ],
+    "message": "Requesting sample quotation for fleet testing.",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "MSG-1789627253237",
+    "createdAt": "2026-09-17T06:40:53.237070+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Test Inquirer",
+    "email": "inquirer@test-partner.com",
+    "phone": "+91 98765 43211",
+    "subject": "B2B Supply Contract Inquiry",
+    "message": "Interested in OEM supply options for regional distribution.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789627253236",
+    "createdAt": "2026-09-17T06:40:53.236567+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Test Engineering Partner",
+    "email": "engineering@test-partner.com",
+    "phone": "+91 98765 43210",
+    "company": "AeroTech Automotive Labs",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "id": "ftit-001",
+        "name": "Prepreg Carbon Mirror Caps",
+        "quantity": 2
+      }
+    ],
+    "message": "Requesting sample quotation for fleet testing.",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "MSG-1789627049001",
+    "createdAt": "2026-09-17T06:37:29.001248+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Live HTTP Contact",
+    "email": "contact-live@ftit.in",
+    "phone": "+91 99999 77777",
+    "subject": "Live API Verification",
+    "message": "Live API is up and responding fast!",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789627046984",
+    "createdAt": "2026-09-17T06:37:26.984415+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Live HTTP Test Partner",
+    "email": "live-test@ftit.in",
+    "phone": "+91 99999 88888",
+    "company": "Live Testing Inc",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "name": "Roof Rails",
+        "quantity": 1
+      }
+    ],
+    "message": "Testing live FastAPI server",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  },
+  {
+    "id": "MSG-1789627010424",
+    "createdAt": "2026-09-17T06:36:50.424319+00:00",
+    "type": "GENERAL_CONTACT",
+    "name": "Test Inquirer",
+    "email": "inquirer@test-partner.com",
+    "phone": "+91 98765 43211",
+    "subject": "B2B Supply Contract Inquiry",
+    "message": "Interested in OEM supply options for regional distribution.",
+    "status": "RECEIVED"
+  },
+  {
+    "id": "RFQ-1789627010423",
+    "createdAt": "2026-09-17T06:36:50.423695+00:00",
+    "type": "RFQ_QUOTE_REQUEST",
+    "name": "Test Engineering Partner",
+    "email": "engineering@test-partner.com",
+    "phone": "+91 98765 43210",
+    "company": "AeroTech Automotive Labs",
+    "vehicle": "Toyota Hycross",
+    "itemCount": 1,
+    "items": [
+      {
+        "id": "ftit-001",
+        "name": "Prepreg Carbon Mirror Caps",
+        "quantity": 2
+      }
+    ],
+    "message": "Requesting sample quotation for fleet testing.",
+    "status": "PENDING_ENGINEERING_REVIEW"
+  }
+]

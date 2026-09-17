@@ -1,0 +1,62 @@
+{
+  "company": {
+    "name": "Futuretech Innotech",
+    "shortName": "FTIT",
+    "established": 2010,
+    "tagline": "Passionate Towards Excellence",
+    "subheading": "India's Best Auto Accessories & Precision Engineering Solutions",
+    "overview": "Futuretech Innotech (FTIT), established in 2010, is a multifaceted Indian manufacturing enterprise delivering precision-engineered automotive components, defense-grade products, electronic innovations, and advanced polymer solutions. With a fully integrated facility and globally recognized certifications, FTIT sets new standards in innovation, performance, and manufacturing excellence.",
+    "stats": [
+      { "label": "Years of Excellence", "value": "10+", "numeric": 10 },
+      { "label": "Revenue till 2025", "value": "$1.8M", "numeric": 1.8, "prefix": "$" },
+      { "label": "Employee Strength", "value": "150+", "numeric": 150 },
+      { "label": "Total Products", "value": "2500+", "numeric": 2500 }
+    ],
+    "pillars": [
+      {
+        "id": "design-dev",
+        "title": "Design & Development",
+        "icon": "📐",
+        "description": "Innovative design solutions powered by advanced engineering, turning ideas into high-performance products tailored for precision and reliability.",
+        "capabilities": ["CAD / 3D Parametric Modeling", "Aerodynamic Simulation", "Rapid Prototyping", "Design for Manufacturability (DFM)"]
+      },
+      {
+        "id": "manufacturing",
+        "title": "Precision Manufacturing",
+        "icon": "⚙️",
+        "description": "State-of-the-art facilities delivering precision-engineered automotive, defense, and electronic components with uncompromised quality.",
+        "capabilities": ["Vertical & Horizontal Injection Molding", "CNC Precision Machining", "Cleanroom Electronics Assembly", "Quality Compliance (ISO 9001 / IATF 16949)"]
+      },
+      {
+        "id": "finishing",
+        "title": "Advanced Finishing",
+        "icon": "✨",
+        "description": "Advanced finishing processes ensuring durability, accuracy, and superior product performance that meets global OEM standards.",
+        "capabilities": ["Hexavalent & Trivalent Chrome Plating", "Rose Gold & Black Chrome Electroplating", "Piano Black High-Gloss Polyurethane", "Micro-Texture Sandblasting & Chemical Etching"]
+      }
+    ],
+    "finishes": [
+      { "id": "hex-chrome", "name": "Hexavalent Bright Chrome", "color": "#E5E7EB", "shimmer": "linear-gradient(135deg, #f3f4f6, #9ca3af, #f9fafb)", "desc": "Mirror-reflective automotive electroplating with maximum specular brilliance." },
+      { "id": "tri-chrome", "name": "Trivalent Bright Chrome", "color": "#D1D5DB", "shimmer": "linear-gradient(135deg, #e5e7eb, #6b7280, #e5e7eb)", "desc": "Eco-compliant REACH/RoHS certified brilliant silver chrome with extreme salt-spray resistance." },
+      { "id": "satin-chrome", "name": "Satin Chrome Finish", "color": "#9CA3AF", "shimmer": "linear-gradient(135deg, #d1d5db, #64748b, #cbd5e1)", "desc": "Sophisticated frosted matte-metallic texture minimizing glare and fingerprints." },
+      { "id": "black-chrome", "name": "Black Chrome Finish", "color": "#374151", "shimmer": "linear-gradient(135deg, #4b5563, #111827, #374151)", "desc": "Aggressive, deep smoky-tinted metallic finish for premium blackout styling editions." },
+      { "id": "rose-gold", "name": "Rose Gold Chrome Finish", "color": "#F43F5E", "shimmer": "linear-gradient(135deg, #fda4af, #e11d48, #ffe4e6)", "desc": "Bespoke luxury warm gold-copper metallic plating for ultra-premium cabin accents." },
+      { "id": "piano-black", "name": "Piano Black Finish", "color": "#0F172A", "shimmer": "linear-gradient(135deg, #1e293b, #000000, #334155)", "desc": "Deep multi-stage high-gloss lacquer replicating acoustic grand piano depth." },
+      { "id": "copper-chrome", "name": "Copper Chrome Finish", "color": "#B45309", "shimmer": "linear-gradient(135deg, #f59e0b, #92400e, #d97706)", "desc": "Industrial rich bronze-copper metallic luster." }
+    ],
+    "featuredCars": [
+      { "id": "hycross", "name": "Toyota Hycross", "tag": "MPV Luxury", "badge": "New Launch", "compatibleCount": 42 },
+      { "id": "thar", "name": "Mahindra Thar / Roxx", "tag": "Off-Road 4x4", "badge": "Popular", "compatibleCount": 56 },
+      { "id": "nexon", "name": "Tata New Nexon / EV", "tag": "Compact SUV", "badge": "Bestseller", "compatibleCount": 48 },
+      { "id": "punch", "name": "Tata Punch / EV", "tag": "Micro SUV", "badge": "Trending", "compatibleCount": 39 },
+      { "id": "scorpio-n", "name": "Mahindra Scorpio-N", "tag": "Full-Size D-SUV", "badge": "Heavy Duty", "compatibleCount": 44 }
+    ],
+    "contact": {
+      "phone": "+91 70424 50591",
+      "email": "Pdhead@futuretechinnotech.in",
+      "address": "B-231, 2ND FLOOR, Shivaji Vihar, Rajouri Garden, New Delhi-110027",
+      "workingHours": "Mon - Sat: 9:30 AM - 6:30 PM IST",
+      "coordinates": { "lat": 28.6538, "lng": 77.1197 }
+    }
+  }
+}
